@@ -1,2 +1,2 @@
-# chrome_password_decrypter
-scripts to decrypt saved google chrome passwords
+# chrome_passwds_shipper
+scripts to ship saved google chrome passwords
